@@ -10,6 +10,12 @@
 python ./extract-enforcements-run.py
 ```
 
+OR
+
+```sh
+python ./extract-audit-run.py
+```
+
 ## Author
 
 👤 **William Helme**
