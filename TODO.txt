@@ -1,0 +1,2 @@
+- Add scrapers for decision notices (https://icosearch.ico.org.uk/s/search.html?collection=ico-meta&profile=decisions&query)
+- improve downloadfiles function in helpers to handle any connection timeouts.
